@@ -14,3 +14,15 @@ And check out my blog at https://blog.anaisonlineto.day!
 
 - 🌱 I’m currently learning C
 - 😄 Pronouns: she/her
+
+### Languages, Skills and Technologies
+- HTML/CSS/JS
+- Python
+- Flask/Django
+- C
+- C++
+- PostgreSQL
+- TypeScript
+- Material
+
+**What's next?** I'm going to give Haskell and Java a go!
