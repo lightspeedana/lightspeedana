@@ -9,6 +9,7 @@ You may also know me as a participant in numerous Cyber Security schemes and com
 ### Links and More
 
 You can find out more about me and my achievements on my website https://anaisonlineto.day
+
 And check out my blog at https://blog.anaisonlineto.day!
 
 - 🌱 I’m currently learning C
