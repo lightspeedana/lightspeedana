@@ -1,6 +1,6 @@
 ### Hi! I'm Ana ✨
 
-**I'm an MPhil Advanced Computer Science student at the University of Cambridge.** I recently graduated from the University of Warwick, studying Cyber Security, and am looking forward to developing my interests in research and development. I want to be at the forefront of designing new tools and software to help shape the future of computer security.
+**I'm an PhD Computer Science student at the University of Cambridge.** I recently graduated from the MPhil in Advanced Computer Science at Cambridge, and have also finished my BSc at University of Warwick before  that, studying Cyber Security. I want to be at the forefront of designing new tools and software to help shape the future of computer security, and am specifically looking at how we can educate children in learning technical cybersecurity skills as part of my PhD.
 
 I was previously a **Research Intern at WithSecure** (2023), and a STEP Intern at **Google Munich** (2022). My current work is engaging with criminology, forensic artefacts and cybercrime to find novel ways to protect and improve the lives of those who are victims of cybercrime or technology-facilitated crimes, creating toolsets and improving existing countermeasures. I completed my undergraduate dissertation, focusing on Android stalkerware and how to find comprehensive indicators of hacked devices using a series of scripts and a framework I developed. I hope to continue this work into my Masters and even a PhD in the future, so if this sounds interesting to you, please do get in contact with me!
 
