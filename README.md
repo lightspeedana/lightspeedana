@@ -26,4 +26,4 @@ And check out my blog at https://blog.anaisonlineto.day!
 - TypeScript
 - Material
 
-**What's next?** I'm starting my MPhil at the University of Cambridge in October 2024!
+**What's next?** I'm progressing through my PhD at the moment!
